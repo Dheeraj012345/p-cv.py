@@ -1,4 +1,4 @@
-
+  
 # #                 ==============CODE IS ON THE ONLY WHERE THE 1 # their WHERE IS 2## THAT IS USE FOR THE IMFORMATION=====================import cv2
 # image=cv2.imread("image1.jpg")#this is use for to read the image
 # print(image)
