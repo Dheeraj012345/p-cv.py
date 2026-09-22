@@ -5,7 +5,7 @@
 # image=cv2.imread("image/image.jpg")
 # resize=cv2.resize(image,(200,300))#that is use for the resize
 # cv2.imshow("orignal image:",image)
-# cv2.imshow("resize image:",resize)
+# cv2.imshow("resize image:",resize) 
 # cv2.imwrite("Resize.jpg",resize)
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
