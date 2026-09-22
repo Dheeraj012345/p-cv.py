@@ -2,6 +2,7 @@
 # #                              thersholding
 # # this use for convert the image white and black .
 # # acordibg to the pixel rule(line) its convert the image in the white and black
+k
 # and its use for fixed threshold and this is use for object and back ground sparation
 # #                           binary thersholding
 # import cv2
