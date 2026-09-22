@@ -6,7 +6,7 @@
 # image = cv2.imread("image/image.jpg")
 # gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 # edges = cv2.Canny(gray, 100, 200)#this is use for the canny
-# edges1 = cv2.Canny(gray, 50, 100)
+# edges1 = cv2.Canny(gray, 50, 100) 
 # edges2 = cv2.Canny(gray, 100, 200)
 # edges3 = cv2.Canny(gray, 150, 250)
 # edge4=cv2.Canny(gray,200,250)
