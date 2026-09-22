@@ -6,7 +6,6 @@ import cv2
 # print("image shape: ",image.shape)#this line use for to the print the shape of the image 
 
 
-
 # #              acees the height and width and channels in deffrent contener
 # image=cv2.imread("image/image.jpg")
 # height,width,channels=image.shape #this line use for to store the value in the deffrent contener 
