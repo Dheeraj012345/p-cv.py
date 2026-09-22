@@ -1,5 +1,5 @@
 #           contours,area,bounding box
-# contours=basicly it use for the deteced the boundry nad outline of the object 
+# contours=basicly it use for the deteced the boundry nad outline of the object
 # area=its use for to knwoing the object area in the image
 # bounding box=it is use for the to create the rectangle/box around the object
 
